@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RetroScript
 - 👀 I’m interested in Game Development, Game Design and Design.
-- 🌱 I’m currently learning Java, Ilustration and Animation.
+- 🌱 I’m currently learning Java, C#, Ilustration and Animation.
 - 💞️ I’m looking to collaborate on Ilustration and Application Programming projects
 - 📫 How to reach me: e-mail: andrefrancelino06@gmail.com
 
