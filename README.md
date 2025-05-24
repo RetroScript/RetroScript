@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @RetroScript
-- 👀 I’m interested in Game Development, Game Design and Design.
-- 🌱 I’m currently learning Java, C#, Ilustration and Animation.
+# 👋 Hi, I’m @RetroScript
+
+### Nice to Meet You!
+- 👀 I’m interested in Game Development, GUI Programming and UX Design.
+- 🌱 I’m currently learning Java, Python, Ilustration and Animation.
 - 💞️ I’m looking to collaborate on Ilustration and Application Programming projects
+
+### Reach me out!
 - 📫 How to reach me: e-mail: andrefrancelino06@gmail.com
 
 <!---
