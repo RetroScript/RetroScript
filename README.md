@@ -1,6 +1,6 @@
 <link href="styles.css" ref="stylesheet"></link>
 
-# 👋 Hi, I’m @RetroScript
+<h1>👋 Hi, I’m @RetroScript</h1>
 
 ### Nice to Meet You!
 - 👀 I’m interested in Game Development, GUI Programming and UX Design.
