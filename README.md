@@ -1,4 +1,4 @@
-<link href="styles.css"></link>
+<link href="styles.css" ref="stylesheet"></link>
 
 # 👋 Hi, I’m @RetroScript
 
