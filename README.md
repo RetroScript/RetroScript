@@ -9,7 +9,7 @@
 
 ![André Francelino](https://github-readme-stats.vercel.app/api?username=RetroScript&show_icons=true&title_color=FFDE59&theme=dark&icon_color=FFDE59)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RetroScript&layout=compact&theme=dark&title_color=FFDE59)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RetroScript&layout=donut&theme=dark&title_color=FFDE59)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Reach me out!
 - 📫 How to reach me: e-mail: andrefrancelino06@gmail.com
