@@ -7,9 +7,20 @@
 
 ### Code With Me!
 
+<!--
+
 ![André Francelino](https://github-readme-stats.vercel.app/api?username=RetroScript&show_icons=true&title_color=FFDE59&theme=dark&icon_color=FFDE59)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RetroScript&layout=donut&theme=dark&title_color=FFDE59)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RetroScript&show_icons=true&title_color=FFDE59&theme=dark&icon_color=FFDE59" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RetroScript&layout=donut&theme=dark&title_color=FFDE59" />
+</a>
 
 ### Reach me out!
 - 📫 How to reach me: e-mail: andrefrancelino06@gmail.com
